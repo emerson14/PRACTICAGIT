@@ -1,1 +1,2 @@
-<!-- estilos -->
+<!-- estilos Emerson Guerrero-->
+body{color: red; backgroud:black}
